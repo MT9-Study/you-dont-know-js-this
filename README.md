@@ -18,4 +18,3 @@ PART 1. You Don’t Know JS this - this와 객체 프로토타입, 비동기와 
 
 ### 참고 도서
 - [You don't know JS this | 카일 심슨](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=114466258)
-# you-dont-know-js-this
